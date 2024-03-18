@@ -26,7 +26,7 @@ The server should load at `http://localhost:5173/`.
 ### Read the state proof
 
 ```bash
-cd storage_proofs
+cd storage_proof
 npm install
 node main.js
 ```
